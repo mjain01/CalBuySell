@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901341352596",
+    "firebase_url": "https://shopfort-74082.firebaseio.com",
+    "project_id": "shopfort-74082",
+    "storage_bucket": "shopfort-74082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901341352596:android:8a66838072d01894",
+        "android_client_info": {
+          "package_name": "drt.com.shopfort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901341352596-3jqk2cild7fn3o4g1q6qns152fjlslfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "drt.com.shopfort",
+            "certificate_hash": "d748f2e81e2de50df7c8ac4c8d227e6e19598c63"
+          }
+        },
+        {
+          "client_id": "901341352596-mfdmobve7vqtmkbue2i4ju4uao2c7f7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGVzcIKltItTkN5oXdjxN_uKHvSSyFOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901341352596-mfdmobve7vqtmkbue2i4ju4uao2c7f7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
